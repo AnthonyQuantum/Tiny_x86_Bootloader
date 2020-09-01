@@ -1,6 +1,6 @@
-;    compile:        nasm -f bin boot.asm -o boot.com
-;    run:            bochs -f bochsrc.txt
-;    write to USB:   sudo dd if=boot.com of=/dev/sdX bs=512 count=1
+;   compile:        nasm -f bin boot.asm -o boot.com
+;   run:            bochs -f bochsrc.txt
+;   write to USB:   sudo dd if=boot.com of=/dev/sdX bs=512 count=1
 
 
 
